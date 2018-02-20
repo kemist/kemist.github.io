@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Welcome to kemist.github.io
 description: It's gitting late
+name: Kemist
+markdown: kramdown
